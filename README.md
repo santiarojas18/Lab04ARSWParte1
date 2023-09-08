@@ -2,6 +2,10 @@
 # Arquitecturas de Software - ARSW
 ### Taller – Principio de Inversión de dependencias, Contenedores Livianos e Inyección de dependencias.
 
+## Integrantes
+### Santiago Arévalo Rojas
+### Juan Felipe Sánchez Pérez
+
 Parte I. Ejercicio básico.
 
 Para ilustrar el uso del framework Spring, y el ambiente de desarrollo para el uso del mismo a través de Maven (y NetBeans), se hará la configuración de una aplicación de análisis de textos, que hace uso de un verificador gramatical que requiere de un corrector ortográfico. A dicho verificador gramatical se le inyectará, en tiempo de ejecución, el corrector ortográfico que se requiera (por ahora, hay dos disponibles: inglés y español).
